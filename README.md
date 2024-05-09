@@ -10,4 +10,3 @@ This app uses a very native model of code in android studio and uses SharedPrefe
 [device-2023-05-28-204458.webm](https://github.com/Cyber-Zypher/Android-Short-Notes-App/assets/74899678/b6a4b8ed-b6da-4ece-bef3-ab165e73999e)
 
 
-![thumbnail](https://github.com/Cyber-Zypher/Android-Short-Notes-App/assets/74899678/6bab4a80-8691-4207-b431-66517d9af27d)
